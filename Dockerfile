@@ -6,4 +6,4 @@ WORKDIR alphonse.py
 RUN git clone -b master https://github.com/bdajd/Alphonse.git
 
 # Run bot
-CMD ["python3"] 
+CMD ["python3", "alphonse.py"] 
