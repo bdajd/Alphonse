@@ -1,1 +1,1 @@
-alphonse: python3 alphonse.py
+worker: python3 alphonse.py
